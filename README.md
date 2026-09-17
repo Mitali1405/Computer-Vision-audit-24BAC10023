@@ -222,8 +222,7 @@ screenshots/output.png
 Then it can be displayed in this README using:
 
 ```markdown
-<img width="427" height="531" alt="WhatsApp Image 2026-09-17 at 10 21 27 PM" src="https://github.com/user-attachments/assets/5bc40087-11ef-4c16-815d-5ef07d2eb8ec" />
-
+![Face Detection Output](screenshots/output.png)
 ```
 
 ---
@@ -306,3 +305,8 @@ The **Real-Time Face Detection Using Python and OpenCV** project demonstrates a 
 By using a webcam and a Haar Cascade classifier, the system can detect human faces in real time and highlight them using bounding boxes.
 
 The project provides a basic foundation for developing more advanced Computer Vision applications such as face recognition, attendance systems, and privacy-preserving face anonymization.
+
+---
+
+<img width="427" height="531" alt="WhatsApp Image 2026-09-17 at 10 21 27 PM" src="https://github.com/user-attachments/assets/dad6d8a3-d4d0-4f59-b037-45d19bf579a4" />
+
