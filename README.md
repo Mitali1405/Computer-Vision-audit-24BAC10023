@@ -222,8 +222,8 @@ screenshots/output.png
 Then it can be displayed in this README using:
 
 ```markdown
-![Face Detection Output](screenshots/output.p<img width="427" height="531" alt="WhatsApp Image 2026-09-17 at 10 21 27 PM" src="https://github.com/user-attachments/assets/ac78582b-5969-407d-a364-9ed11a9d36da" />
-ng)
+<img width="427" height="531" alt="WhatsApp Image 2026-09-17 at 10 21 27 PM" src="https://github.com/user-attachments/assets/5bc40087-11ef-4c16-815d-5ef07d2eb8ec" />
+
 ```
 
 ---
